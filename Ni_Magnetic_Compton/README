@@ -1,0 +1,11 @@
+Here are the experimental data (with errors).
+
+Format is p_z, J_mag (pz), error
+ 
+There are also two theory files. For those  the format is
+
+p_z, J_up, J_dn
+
+so you need to plot column 1 against (column2 - column3).
+
+
